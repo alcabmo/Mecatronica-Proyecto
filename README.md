@@ -4,7 +4,7 @@ _Por Guillermo Bernal , Alejandro Cabrera , José Manuel Tostado_
 
 **Foto del bicho
 
-Nuestro proyecto para la asignatura es un tractor de 4 ruedas ruedas motrices teleoperado.
+Nuestro proyecto para la asignatura es un tractor de 2 ruedas ruedas motrices teleoperado por app desde el telefono movil.
 
 ## Ingredientes
 
@@ -61,6 +61,19 @@ Esta aplicación nos proporciona código para cualquier interfaz personalizada q
 
 ## Comportamiento
 
-El  robot conta de 4 ruedas motrices y no tiene eje direccional por lo que tiene "controles de tanque" y lo conseguimos girar cambiando velocidades en cada lado de las ruedas. Hemos configurado los controles para que nos podamos abstraer de esto y girarlo con solo 4 acciones basicas: _forward, left, right y back_
+El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene "controles de tanque" y lo conseguimos girar cambiando velocidades en cada lado de las ruedas. Hemos configurado los controles para que nos podamos abstraer de esto y girarlo con solo 4 acciones basicas: _forward, left, right y back_
 
 **foto de la interfaz q vemos en el movil
+
+## Modelo
+
+EL modelo del robot tiene forma de tractor lo hemos hecho con piezas imprimidas diseñadas con freecad, hemos usado tuercas X Y Z para asamblar las piezas, poner los motores..., en el modelo creado un hueco para poner el arduino y todo el cableado. 
+Pesa X kilos, mide Y cm x Z cm.
+
+**zooms a los huecos q tenemos para las tuercas
+
+## Controlador de motores
+
+El controlador de motores es una placa extra que nos permite usar mejor los motores y distribuir los voltios necesarios para que funcionen todos bien.
+
+**mapa de conexiones del driver
