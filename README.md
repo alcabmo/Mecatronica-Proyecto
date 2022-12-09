@@ -57,11 +57,11 @@ Para hacer nuestro proyecto hemos usado los siguientes elementos:
 ## Comunicación
 
 La parte de comunicación la hemos conseguido usando App Inventor https://appinventor.mit.edu/ para conectar el bluethoot con el movil.
-Esta aplicación nos proporciona código para cualquier interfaz personalizada que queramos utilizar.
+Esta aplicación nos proporciona código para cualquier interfaz personalizada que queramos utilizar. Basicamente sirve para crearnos una interfaz y poder convertir nuestro móvil en un "mando". Esto lo logra por que nos da el código donde 
 
 ## Comportamiento
 
-El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene "controles de tanque" y lo conseguimos girar cambiando velocidades en cada lado de las ruedas. Hemos configurado los controles para que nos podamos abstraer de esto y girarlo con solo 4 acciones basicas: _forward, left, right y back_
+El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene "controles de tanque" y lo conseguimos girar cambiando velocidades en cada lado de las ruedas. Hemos configurado los controles para que nos podamos abstraer de esto y girarlo con solo 4 acciones basicas: _forward, left, right y back_ . Estas instrucciones son las que vamos a tener en la interfaz gráfica de la aplicación del movil al conectarnos al bluethoot.
 
 **foto de la interfaz q vemos en el movil
 
