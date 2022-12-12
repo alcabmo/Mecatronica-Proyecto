@@ -62,6 +62,9 @@ El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene
 EL modelo del robot tiene forma de tractor lo hemos hecho con piezas imprimidas diseñadas con freecad, hemos usado tuercas X Y Z para asamblar las piezas, poner los motores..., en el modelo creado un hueco para poner el arduino y todo el cableado. 
 Pesa X kilos, mide Y cm x Z cm.
 
+**explicar lo del eje de las ruedas
+**distribución de pesos explicarlo
+
 **zooms a los huecos q tenemos para las tuercas
 
 ## Controlador de motores
