@@ -27,19 +27,11 @@ Para hacer nuestro proyecto hemos usado los siguientes elementos:
 ![image](https://user-images.githubusercontent.com/78978241/206704546-e121a6b2-a9e2-4671-84cf-f7c412763b5b.png)
 
 
-**-Módulo controlador de motores L293d:**
+**-Módulo controlador de motores L293n:**
 
 
+![image](https://user-images.githubusercontent.com/78978241/206999731-d69b0c77-fb05-4234-a918-4a9d64b22373.png)
 
-![image](https://user-images.githubusercontent.com/78978241/206707873-11c1d9f7-31c2-4e62-b3a0-874cdcf36a75.png)
-
-**-El chasis impreso**
-
-**foto del chasis en el freecad
-
-**- Ruedas**
-
-**foto de las ruedas en el freecad
 
 ## Herramientas usadas:
 
