@@ -30,7 +30,7 @@ Para hacer nuestro proyecto hemos usado los siguientes elementos:
 **-Módulo controlador de motores L293n:**
 
 
-![image](https://user-images.githubusercontent.com/78978241/206999731-d69b0c77-fb05-4234-a918-4a9d64b22373.png)
+![image](https://user-images.githubusercontent.com/78978241/206999985-b3fa2511-f53b-4acd-b831-b7048cafca52.png)
 
 
 ## Herramientas usadas:
