@@ -18,6 +18,11 @@ Pura chemeada
 | [Motor](https://www.arduino.cc/documents/datasheets/DCmotor6_9V.pdf) | DC motor 6/9V |
 | [Bluetooth](https://4.imimg.com/data4/CT/HK/MY-5859485/bluetooth-module.pdf) | Módulo Bluetooth HC-05 |
 
+El esquema del circuito es el siguiente:
+
+![](https://github.com/alcabmo/Mecatronica-Proyecto/blob/main/resources/circuito.jpg?raw=true)
+
+
 ## Comunicación
 
 La parte de comunicación la hemos conseguido usando App Inventor https://appinventor.mit.edu/ para conectar el bluethoot con el movil.
