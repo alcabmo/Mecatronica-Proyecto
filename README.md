@@ -12,11 +12,8 @@ Pura chemeada
 ## Electrónica
 
 | **Componente** | **Descripción** |
-| -- | -- |
 | [Arduino](https://docs.arduino.cc/static/9d6ed041fec691039663ae42f50fabcc/A000066-datasheet.pdf) | Arduino |
-| -- | -- |
 | [Shield](http://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) | L298N Dual H-Bridge Motor Driver |
-| -- | -- |
 | [Motor](https://www.arduino.cc/documents/datasheets/DCmotor6_9V.pdf) | DC motor 6/9V |
 
 ## Comunicación
