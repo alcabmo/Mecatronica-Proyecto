@@ -2,7 +2,7 @@
 
 _Por Guillermo Bernal Ruíz , Alejandro Cabrera Moreno, José Manuel Tostado Felipe_
 
-**Foto del bicho
+jajajajaajajjajajajaajajajajajajajaajaj
 
 ## Diseño
 
@@ -28,26 +28,16 @@ El esquema del circuito es el siguiente:
 La parte de comunicación la hemos conseguido usando App Inventor https://appinventor.mit.edu/ para conectar el bluethoot con el movil.
 Esto es usado con el fin de transmitir las acciones de movimiento desde la aplicación del móvil usando Bluetooth.
 
-
+<p align="center">
+  <img width="200" height="433" src="https://github.com/alcabmo/Mecatronica-Proyecto/blob/main/resources/app_resize.jpg">
+</p>
 
 ## Comportamiento
 
-El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene "controles de tanque" y lo conseguimos girar cambiando velocidades en cada lado de las ruedas. Hemos configurado los controles para que nos podamos abstraer de esto y girarlo con solo 4 acciones basicas: _forward, left, right y back_ . Estas instrucciones son las que vamos a tener en la interfaz gráfica de la aplicación del movil al conectarnos al bluethoot.
+El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene "controles de tanque" y lo conseguimos girar cambiando velocidades en cada lado de las ruedas. Hemos configurado los controles para que nos podamos abstraer de esto y girarlo con solo 4 acciones basicas: _forward, left, right y back_ . Estas instrucciones son las que vamos a tener en la interfaz gráfica de la aplicación del movil al conectarnos al bluetooth.
 
-**foto de la interfaz q vemos en el movil
+Aunque existe la opción de comandar tú mismo la potencia de cada rueda a través de los dos sliders de la aplicación, uno para cada rueda.
 
-## Modelo
+No se si poner foto del codigo aqui la verdad
 
-EL modelo del robot tiene forma de tractor lo hemos hecho con piezas imprimidas diseñadas con freecad, hemos usado tuercas X Y Z para asamblar las piezas, poner los motores..., en el modelo creado un hueco para poner el arduino y todo el cableado. 
-Pesa X kilos, mide Y cm x Z cm.
-
-**explicar lo del eje de las ruedas
-**distribución de pesos explicarlo
-
-**zooms a los huecos q tenemos para las tuercas
-
-## Controlador de motores
-
-El controlador de motores es una placa extra que nos permite usar mejor los motores y distribuir los voltios necesarios para que funcionen todos bien.
-
-**mapa de conexiones del driver
+y a solo queda poner un video final y ya
