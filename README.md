@@ -11,7 +11,7 @@ Pura chemeada
 
 ## Electrónica
 
-|*Cosa* | *Cosa2* |
+| **Cosa** | **Cosa2** |
 | -- | -- |
 
 
