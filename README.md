@@ -23,10 +23,12 @@ El esquema del circuito es el siguiente:
 ![](https://github.com/alcabmo/Mecatronica-Proyecto/blob/main/resources/circuito.jpg?raw=true)
 
 
-## Comunicación
+## Comunicación y aplicación
 
 La parte de comunicación la hemos conseguido usando App Inventor https://appinventor.mit.edu/ para conectar el bluethoot con el movil.
-Esta aplicación nos proporciona código para cualquier interfaz personalizada que queramos utilizar. Basicamente sirve para crearnos una interfaz y poder convertir nuestro móvil en un "mando". Esto lo logra por que nos da el código donde 
+Esto es usado con el fin de transmitir las acciones de movimiento desde la aplicación del móvil usando Bluetooth.
+
+
 
 ## Comportamiento
 
