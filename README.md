@@ -1,7 +1,6 @@
 # Proyecto de Mecatrónica 2022: Robot tractor
 
 _Por Guillermo Bernal Ruíz , Alejandro Cabrera Moreno, José Manuel Tostado Felipe_
-[![Image from Gyazo](https://i.gyazo.com/18c4e4c4d3c8361190efb446ac262bf7.gif)](https://gyazo.com/18c4e4c4d3c8361190efb446ac262bf7)
 
 ## Resumen Proyecto
 
