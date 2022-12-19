@@ -15,7 +15,8 @@ El diseño del robot se basa en un tractor tradicional lo que significa que las 
 ### Chasis.
 ![imagen](https://user-images.githubusercontent.com/73531592/208453772-cdc978f5-1f81-4b70-9623-f3bffe6b77e1.png)
 ![imagen](https://user-images.githubusercontent.com/73531592/208454047-8d43f8cc-3f0b-4e08-a38f-64a3f7037b7c.png)
-![imagen](https://user-images.githubusercontent.com/73531592/208450606-d28f24f8-1644-49a0-8df3-996d30b71694.png)
+![imagen](https://user-images.githubusercontent.com/73531592/208454266-962cde31-06b8-4026-8622-24d7568c898b.png)
+
 
 ### Carroceria.
 ![imagen](https://user-images.githubusercontent.com/73531592/208450947-a4a93bb3-27c6-4689-aeba-2b7de24e49ad.png)
