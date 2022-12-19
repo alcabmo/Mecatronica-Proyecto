@@ -13,10 +13,10 @@ El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 rue
 El diseño del robot se basa en un tractor tradicional lo que significa que las ruedas de atras tienen mas diametro que las delanteras con una alta suspensión. El diseño está completamente diseñado en FreeCad de cero y impreso utilizando impresion 3D.
 
 ### Chasis.
-![af5fb6b22c092fb7db14ba9f5115caeb](https://user-images.githubusercontent.com/73531592/208457317-7647a46b-a52a-4500-9fc7-923a26a336d9.gif)
 
-[![Image from Gyazo](https://i.gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb.gif)](https://gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb)
-[![Image from Gyazo](https://i.gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb.gif)](https://gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb)
+![18c4e4c4d3c8361190efb446ac262bf7](https://user-images.githubusercontent.com/73531592/208457571-cf3ba951-1695-4452-bf56-e7565302b5b4.gif)
+
+![af5fb6b22c092fb7db14ba9f5115caeb](https://user-images.githubusercontent.com/73531592/208457317-7647a46b-a52a-4500-9fc7-923a26a336d9.gif)
 
 ![imagen](https://user-images.githubusercontent.com/73531592/208454266-962cde31-06b8-4026-8622-24d7568c898b.png)
 
@@ -42,8 +42,9 @@ El diseño del robot se basa en un tractor tradicional lo que significa que las 
 | -- | -- |
 | [Arduino](https://docs.arduino.cc/static/9d6ed041fec691039663ae42f50fabcc/A000066-datasheet.pdf) | Arduino |
 | [Shield](http://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) | L298N Dual H-Bridge Motor Driver |
-| [Motor](https://www.arduino.cc/documents/datasheets/DCmotor6_9V.pdf) | DC motor 6/9V |
+| [Motor](https://www.arduino.cc/documents/datasheets/DCmotor6_9V.pdf) | 2 x DC motor 6/9V |
 | [Bluetooth](https://4.imimg.com/data4/CT/HK/MY-5859485/bluetooth-module.pdf) | Módulo Bluetooth HC-05 |
+| [Bateria](![imagen](https://user-images.githubusercontent.com/73531592/208458210-3e2f2d68-7e1c-4df2-913b-9cdac013ac90.png)) | Pila Petaca 9V |
 
 El esquema del circuito es el siguiente:
 
