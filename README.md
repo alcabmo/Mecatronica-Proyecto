@@ -14,8 +14,8 @@ El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 rue
 El diseño del robot se basa en un tractor tradicional lo que significa que las ruedas de atras tienen mas diametro que las delanteras con una alta suspensión. El diseño está completamente diseñado en FreeCad de cero y impreso utilizando impresion 3D.
 
 ### Chasis.
-![imagen](https://user-images.githubusercontent.com/73531592/208453772-cdc978f5-1f81-4b70-9623-f3bffe6b77e1.png)
-![imagen](https://user-images.githubusercontent.com/73531592/208454047-8d43f8cc-3f0b-4e08-a38f-64a3f7037b7c.png)
+[![Image from Gyazo](https://i.gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb.gif)](https://gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb)
+[![Image from Gyazo](https://i.gyazo.com/18c4e4c4d3c8361190efb446ac262bf7.gif)](https://gyazo.com/18c4e4c4d3c8361190efb446ac262bf7)
 ![imagen](https://user-images.githubusercontent.com/73531592/208454266-962cde31-06b8-4026-8622-24d7568c898b.png)
 
 
