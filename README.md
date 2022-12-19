@@ -23,17 +23,24 @@ El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 rue
 
 
 ## Diseño
+
 <p align="center">
-  <img src="https://i.gyazo.com/fd7610a37d82eed7b401d0557ec5e80d.png">
+  <img src="https://user-images.githubusercontent.com/73531592/208531344-dac4fac3-b44c-446f-a8aa-40f29f62884f.gif" alt="animated" />
 </p>
 
 El diseño del robot se basa en un tractor tradicional. El diseño está completamente diseñado en FreeCad de cero e impreso utilizando impresion 3D.
 
 
 ### Chasis.
-  ![18c4e4c4d3c8361190efb446ac262bf7](https://user-images.githubusercontent.com/73531592/208457571-cf3ba951-1695-4452-bf56-e7565302b5b4.gif)
-  ![af5fb6b22c092fb7db14ba9f5115caeb](https://user-images.githubusercontent.com/73531592/208457317-7647a46b-a52a-4500-9fc7-923a26a336d9.gif)
-  ![imagen](https://user-images.githubusercontent.com/73531592/208454266-962cde31-06b8-4026-8622-24d7568c898b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73531592/208457571-cf3ba951-1695-4452-bf56-e7565302b5b4.gif" alt="animated" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73531592/208457317-7647a46b-a52a-4500-9fc7-923a26a336d9.gif" alt="animated" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73531592/208454266-962cde31-06b8-4026-8622-24d7568c898b.png">
+</p>
 
 ### Carroceria.
 <p align="center">
