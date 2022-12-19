@@ -2,11 +2,33 @@
 
 _Por Guillermo Bernal Ruíz , Alejandro Cabrera Moreno, José Manuel Tostado Felipe_
 
-jajajajaajajjajajajaajajajajajajajaajaj
+## Resumen Proyecto
+
+Este es nuestro proyecto para la asignatura de mecatrónica de la URJC del año 2022.
+El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 ruedas de las cuales únicamente las traseras son motrices.
 
 ## Diseño
+![imagen](https://user-images.githubusercontent.com/73531592/208452707-42b26622-e73e-4a4f-aeae-dedfced8e34f.png)
 
-Pura chemeada
+El diseño del robot se basa en un tractor tradicional lo que significa que las ruedas de atras tienen mas diametro que las delanteras con una alta suspensión. El diseño está completamente diseñado en FreeCad de cero y impreso utilizando impresion 3D.
+
+### Chasis.
+![imagen](https://user-images.githubusercontent.com/73531592/208450314-1738b7ee-9931-4bb9-b086-ac0cae24db71.png)
+![imagen](https://user-images.githubusercontent.com/73531592/208450448-e11f033a-b1e6-42b3-9971-d0d6d609d797.png)
+![imagen](https://user-images.githubusercontent.com/73531592/208450606-d28f24f8-1644-49a0-8df3-996d30b71694.png)
+
+### Carroceria.
+![imagen](https://user-images.githubusercontent.com/73531592/208450947-a4a93bb3-27c6-4689-aeba-2b7de24e49ad.png)
+![imagen](https://user-images.githubusercontent.com/73531592/208451044-f2b6e5b6-26dc-4919-a29e-9faa88c7f64c.png)
+![imagen](https://user-images.githubusercontent.com/73531592/208451148-1122d24e-8b2a-45bf-93e0-ba6afa25c5bb.png)
+![imagen](https://user-images.githubusercontent.com/73531592/208451908-7c822283-65f7-480c-bf80-b368d6385903.png)
+
+
+### Ruedas.
+![imagen](https://user-images.githubusercontent.com/73531592/208451683-e8bc1db5-6fba-4c72-8f81-447099dceadc.png)
+
+### Soporte.
+![imagen](https://user-images.githubusercontent.com/73531592/208452285-766e6b7f-644f-41a8-a42f-f2bfef17f4c7.png)
 
 
 ## Electrónica
