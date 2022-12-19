@@ -7,9 +7,25 @@ _Por Guillermo Bernal Ruíz , Alejandro Cabrera Moreno, José Manuel Tostado Fel
 Este es nuestro proyecto para la asignatura de mecatrónica.
 El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 ruedas de las cuales únicamente las traseras son motrices.
 
+<p align="center">
+  <img src="https://i.gyazo.com/3658b0d9328061116e11e5675215771e.jpg">
+</p>
+
+<p align="center">
+  <img src="https://i.gyazo.com/3b3d2802e6a005d74da43f8e7d361fbc.jpg">
+</p>
+
+## Por qué un tractor
+
+<p align="center">
+  <img src="https://s3-eu-west-1.amazonaws.com/topmaquinaria-static/aimages/189/361/4fa/77a/48b/ae3/346094/standard/49083332_large_26084.jpg?1633377784">
+</p>
+
 
 ## Diseño
-![imagen](https://user-images.githubusercontent.com/73531592/208452707-42b26622-e73e-4a4f-aeae-dedfced8e34f.png)
+<p align="center">
+  <img src="https://i.gyazo.com/fd7610a37d82eed7b401d0557ec5e80d.png">
+</p>
 
 El diseño del robot se basa en un tractor tradicional. El diseño está completamente diseñado en FreeCad de cero e impreso utilizando impresion 3D.
 
@@ -68,6 +84,6 @@ El  robot conta de 2 ruedas motrices y no tiene eje direccional por lo que tiene
 
 Aunque existe la opción de comandar tú mismo la potencia de cada rueda a través de los dos sliders de la aplicación, uno para cada rueda.
 
-No se si poner foto del codigo aqui la verdad
-
-y a solo queda poner un video final y ya
+<p align="center">
+  <img src="https://i.gyazo.com/9d71dff40cf3c9cc9527aad23cc65a3f.png">
+</p>
