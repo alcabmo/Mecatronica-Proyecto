@@ -14,7 +14,9 @@ El diseño del robot se basa en un tractor tradicional lo que significa que las 
 
 ### Chasis.
 [![Image from Gyazo](https://i.gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb.gif)](https://gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb)
-[![Image from Gyazo](https://i.gyazo.com/18c4e4c4d3c8361190efb446ac262bf7.gif)](https://gyazo.com/18c4e4c4d3c8361190efb446ac262bf7)
+
+[![Image from Gyazo](https://i.gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb.gif)](https://gyazo.com/af5fb6b22c092fb7db14ba9f5115caeb)
+
 ![imagen](https://user-images.githubusercontent.com/73531592/208454266-962cde31-06b8-4026-8622-24d7568c898b.png)
 
 
