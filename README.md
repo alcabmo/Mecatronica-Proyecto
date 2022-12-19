@@ -4,7 +4,7 @@ _Por Guillermo Bernal Ruíz , Alejandro Cabrera Moreno, José Manuel Tostado Fel
 
 ## Resumen Proyecto
 
-Este es nuestro proyecto para la asignatura de mecatrónica de la URJC del año 2022.
+Este es nuestro proyecto para la asignatura de mecatrónic.
 El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 ruedas de las cuales únicamente las traseras son motrices.
 
 ## Diseño
