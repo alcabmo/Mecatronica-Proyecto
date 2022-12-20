@@ -71,7 +71,7 @@ El diseño del robot se basa en un tractor tradicional. El diseño está complet
 
 | **Componente** | **Descripción** |
 | -- | -- |
-| [Arduino](https://docs.arduino.cc/static/9d6ed041fec691039663ae42f50fabcc/A000066-datasheet.pdf) | Arduino |
+| [Arduino](https://docs.arduino.cc/static/9d6ed041fec691039663ae42f50fabcc/A000066-datasheet.pdf) | Arduino Uno |
 | [Shield](http://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) | L298N Dual H-Bridge Motor Driver |
 | [Motor](https://www.arduino.cc/documents/datasheets/DCmotor6_9V.pdf) | 2 x DC motor 6/9V |
 | [Bluetooth](https://4.imimg.com/data4/CT/HK/MY-5859485/bluetooth-module.pdf) | Módulo Bluetooth HC-05 |
