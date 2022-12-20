@@ -15,6 +15,12 @@ El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 rue
   <img src="https://i.gyazo.com/3b3d2802e6a005d74da43f8e7d361fbc.jpg">
 </p>
 
+
+
+https://user-images.githubusercontent.com/78974537/208654224-3580d16f-b76a-4f96-a24b-c22d29c323b9.mp4
+
+
+
 ## Por qué un tractor
 
 <p align="center">
