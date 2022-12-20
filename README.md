@@ -88,7 +88,7 @@ La parte de comunicación la hemos conseguido usando App Inventor https://appinv
 Esto es usado con el fin de transmitir las acciones de movimiento desde la aplicación del móvil usando Bluetooth.
 
 <p align="center">
-  <img width="200" height="433" src="https://github.com/alcabmo/Mecatronica-Proyecto/blob/main/resources/app_resize.jpg">
+  <img width="277" height="600" src="https://github.com/alcabmo/Mecatronica-Proyecto/blob/main/resources/app_resize.jpg">
 </p>
 
 ## Comportamiento
