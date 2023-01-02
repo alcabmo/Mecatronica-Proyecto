@@ -1,6 +1,5 @@
 # Proyecto de Mecatrónica 2022: Robot tractor
 
-_Por Guillermo Bernal Ruíz , Alejandro Cabrera Moreno, José Manuel Tostado Felipe_
 
 ## Resumen Proyecto
 
@@ -8,25 +7,10 @@ Este es nuestro proyecto para la asignatura de mecatrónica.
 El proyecto consiste en un tractor teleoperado via bluetooth que consta de 4 ruedas de las cuales únicamente las traseras son motrices.
 
 <p align="center">
-  <img src="https://i.gyazo.com/3658b0d9328061116e11e5675215771e.jpg">
-</p>
-
-<p align="center">
   <img src="https://i.gyazo.com/3b3d2802e6a005d74da43f8e7d361fbc.jpg">
 </p>
 
-
-
 https://user-images.githubusercontent.com/78974537/208654224-3580d16f-b76a-4f96-a24b-c22d29c323b9.mp4
-
-
-
-## Por qué un tractor
-
-<p align="center">
-  <img src="https://s3-eu-west-1.amazonaws.com/topmaquinaria-static/aimages/189/361/4fa/77a/48b/ae3/346094/standard/49083332_large_26084.jpg?1633377784">
-</p>
-
 
 ## Diseño
 
